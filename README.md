@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/59628974/130962551-4cdb3cc6-1fbe-4be5-a9b2-1c36d7bdce7a.png)
 
-:desktop_computer: : Atualmente estou trabalhando ReactJS e Typescript.
+:desktop_computer: : Atualmente estou trabalhando com ReactJS e Typescript.
 
 :man_student: : Sou formado em Análise e Desenvolvimento de Sistema.
 
