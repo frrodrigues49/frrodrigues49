@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/59628974/130962551-4cdb3cc6-1fbe-4be5-a9b2-1c36d7bdce7a.png)
 
-:desktop_computer: : Currently I am Mr FrontEnd developer and enthusiast in mobile react-native / java / kotlin.
+:desktop_computer: : Currently I am Sr FrontEnd developer and enthusiast in mobile react-native / java / kotlin.
 
 :man_student: : I have a degree in System Analysis and Development and Mathematics.
 
@@ -46,7 +46,8 @@
    <img align="center" alt="Seguelize" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg">
    <img align="center" alt="GraphQl" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
  <h4>Mobile</h4>
-   <img align="center" alt="Apple" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"> 
+   <img align="center" alt="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"> 
+   <img align="center" alt="Apple" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">  
    <img align="center" alt="Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">  
    <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
    <img align="center" alt="Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">     
